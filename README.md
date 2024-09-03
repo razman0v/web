@@ -5,3 +5,6 @@ https://docs.google.com/spreadsheets/d/1R7tGHjq10HpPaD5-uVAjnHSxr4_bw35oEktKt_ve
 
 Тест-кейсы для Cart Management и Order Management:
 https://app.qase.io/project/G8?suite=239&previewMode=side&view=2
+
+Чек-лист для Cart Management и Order Management:
+https://docs.google.com/spreadsheets/d/1VO_o3Ve0bXD6pwAWeuTYYqfptaHqjLxaniCE1LTibLQ/edit?usp=sharing
